@@ -12,22 +12,4 @@ Join us in shaping the future of data!
 
 ---
 
-## Our Projects 🌟
-
-- **[LYXQL Server](https://github.com/lyxql/lyxql-server)**: A high-performance NoSQL database with full SQL-like functionality, offering fast read/write operations and flexible server configurations.
-- **[LYXQL4J](https://github.com/lyxql/lyxql-java-driver)**: [soon]
-- **[LYXQL JDBC](https://github.com/lyxql/lyxql-jdbc)**: [soon]
-- **[PyLYXQL](https://github.com/lyxql/pylyxql)**: [soon]
-- **[LYXQL GO](https://github.com/lyxql/lyxql-go)**: [soon]
-
----
-
-## Get Involved 🤝
-
-We welcome developers, data enthusiasts, and contributors from around the world. If you’re passionate about building the next-generation database solutions, we’d love to have you on board!
-
-- **GitHub**: [https://github.com/lyxql](https://github.com/lyxql)
-
----
-
 Let’s build something amazing together! 💪
