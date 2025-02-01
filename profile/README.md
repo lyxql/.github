@@ -1,5 +1,7 @@
 <img src="../banner.png">
 
+<img src="https://img.shields.io/badge/latest--release-0.0.1-green?style=flat" />
+
 # Welcome to **LYXQL** 🚀
 
 We are a passionate team dedicated to building high-performance, scalable, and flexible database solutions. Our mission is to revolutionize how databases are built and used by providing powerful tools that combine the best of NoSQL and SQL functionality.
