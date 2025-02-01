@@ -1,8 +1,8 @@
 <img src="../banner.png">
 
 <div>
+<img src="https://img.shields.io/badge/license-Apache--2.0-red?style=flat" />  
 <img src="https://img.shields.io/badge/latest--release-0.0.1-green?style=flat" />
-<img src="https://img.shields.io/badge/llicense-Apache--2.0-red?style=flat" />  
 </div>
 
 # Welcome to **LYXQL** 🚀
